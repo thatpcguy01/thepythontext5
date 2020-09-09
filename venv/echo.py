@@ -1,0 +1,5 @@
+name = input('Please type your name and press enter\n Enter name: ')
+characterClass = input('Please enter your class: ')
+print('\n')
+print("Name:", name)
+print("Class:", characterClass)
